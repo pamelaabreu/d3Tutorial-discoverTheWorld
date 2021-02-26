@@ -4,4 +4,4 @@
 
 https://pamelaabreu.github.io/d3Tutorial-discoverTheWorld/
 
-![discover the world project screenshot](assets/images/projectScreenshot.png)
+![discover the world project screenshot](assets/images/projectScreenshot.gif)
